@@ -1,0 +1,428 @@
+#end{
+
+    background: linear-gradient(white, powderblue);
+    padding-bottom: 10%;
+}
+#frequent_questions{
+    padding-top: 5%;
+    background: white;
+}
+#reviews{padding-top: 1%;
+    background: linear-gradient(#00ADB5,#00ADB5);
+    padding-bottom: 100px;
+
+}
+#training{
+    /*padding-top: 2%;*/
+    background: linear-gradient(#C4EEDE,#00ADB5);
+    padding-bottom: 200px;
+}
+#work{
+    background-color: white;
+    padding-top: 4%;
+}
+#work_experience{
+    background: linear-gradient(white,white);
+}
+#info_tutor{
+    background: white;
+
+}
+#experience{
+    background: linear-gradient(white,white);
+    padding-top: 2%;
+}
+#warranty{
+    padding-top: 4%;
+    background: linear-gradient(white, #C4EEDE);
+}
+body{
+    /*background-color: #FFFBF0;*/
+}
+
+#ava{
+    /*border-radius: 40%;*/
+    width: 90px;
+}
+.text{
+    margin-left: 40px;
+}
+.text h2{
+    margin-bottom: 6%;
+    font: 25px 'Century Gothic';
+}
+.text p{
+    font: 20px 'Century Gothic';
+    color: red;
+}
+.connection{
+    width: 70%;
+
+}
+.connection h2{
+    font: 25px 'Century Gothic';
+}
+.connect{
+    width: 50%;
+}
+.connect h2{
+    font: 25px 'Century Gothic';
+}
+.avaa{
+    display: flex;
+    width: 100%;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.conn{
+    width: 7%;
+    margin-left: 3%;
+}
+.button{
+    width: 200px;
+    border: 2px solid #403F48;
+    text-align: center;
+}
+.button a{
+    text-decoration: none;
+    color: black;
+    font: 30px 'Century Gothic';
+    background-color: transparent;
+
+
+    /*margin-bottom: 6%;*/
+}
+/*.button_2{*/
+/*    margin-left: 25%;*/
+/*    color: red;*/
+/*    font: 30px 'Century Gothic';*/
+/*    background-color: transparent;*/
+/*    border-color: white;*/
+
+/*}*/
+/*.button_4{*/
+/*    !*margin-left: 25%;*!*/
+/*    margin-top: 2%;*/
+/*    color: black;*/
+/*    font: 30px 'Century Gothic';*/
+/*    background-color: white;*/
+/*    border-color: white;*/
+/*}*/
+#fot{
+    width: 100%;
+    /*margin-left: 1000px;*/
+}
+.experience{
+    display: flex;
+    margin-left: 15% ;
+    margin-right: 15% ;
+    margin-top: 7%;
+}
+.record{
+    margin-left: 5%;
+}
+.stocks h2{
+    font: 35px 'Century Gothic';
+}
+.stocks h3{
+    font: 20px 'Century Gothic';
+    color: red;
+}
+.stocks h4{
+    font: 30px 'Century Gothic';
+}
+.work_experience_2{
+    padding-top: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.work_experience_2 h2{
+    font: 35px 'Century Gothic';
+}
+.work_experience_2 h3{
+    font: 20px 'Century Gothic';
+    color: red;
+}
+.work_experience_2 h4{
+    font: 25px 'Century Gothic';
+}
+.work_experience_2 h5{
+    font: 15px 'Century Gothic';
+}
+.icon{
+    width: 5%;
+
+}
+.networks{
+    /*right: 50%;*/
+    padding-left: 45%;
+}
+.worker{
+    margin-top: 5%;
+    display: flex;
+    /*flex-direction: row;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+    margin-right: 10%;
+    margin-left: 10%;
+}
+.row1{
+    margin-left: 2%;
+}
+.text_t{
+
+    width: 70%;
+    margin-left: 3%;
+}
+.text_t h2{
+    color: black;
+    font: 30px 'Century Gothic';
+}
+.text_t h3,h4,p{
+    font: 20px 'Century Gothic';
+}
+.ellipsis{
+    width: 5%;
+}
+.elli{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.elli h2{
+    font: 30px 'Century Gothic';
+}
+.variants{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 3%;
+}
+.st{
+    width: 100px;
+}
+.str{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+    width: 250px;
+}
+.str p{
+    font: 15px 'Century Gothic';
+    text-align: center;
+    /*width: 70%;*/
+}
+.str h2{
+    font: 20px 'Century Gothic';
+    text-align: center;
+}
+.zap{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5%;
+}
+.zap h2{
+    font: 30px 'Century Gothic';
+}
+.tii_1{
+    display: flex;
+    flex-direction: row;
+    /*justify-content: center;*/
+    /*align-items: center;*/
+}
+.tii_1 p{
+    width: 60%;
+    margin: 2%;
+    /*margin-left: 7%;*/
+    border: 3px #F4EEFF solid;
+    padding: 25px;
+}
+.stages{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container {
+    border: 2px solid snow;
+    background-color: white;
+    border-radius: 5px;
+    margin: 20px;
+    width: 600px;
+    height: 250px;
+}
+.container::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+.container img {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+}
+/*.container span {*/
+/*    font-size: 20px;*/
+/*    margin-right: 15px;*/
+/*}*/
+
+/*@media (max-width: 500px) {*/
+/*    .container {*/
+/*        text-align: center;*/
+/*    }*/
+/*    .container img {*/
+/*        margin: auto;*/
+/*        float: none;*/
+/*        display: block;*/
+/*    }*/
+/*}*/
+.reviews_clients{
+    margin-left: 10%;
+    margin-right: 10%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.otz h2{
+    font: 45px 'Century Gothic';
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block{
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
+.questions{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    /*align-items: center;*/
+}
+.questions p{
+    border-bottom: 2px solid black;
+    background-color: white;
+    /*border-radius: 5px;*/
+}
+.questions h3{
+    font: 30px 'Century Gothic';
+}
+.last{
+    margin-top: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#top{
+    margin-top: 3%;
+    width: 10%;
+}
+#tip{
+    width: 50%;
+}
+.last h2{
+    margin-top: 3%;
+    font: 30px 'Century Gothic';
+    text-align: center;
+}
+.button_5{
+    /*margin-left: 25%;*/
+    margin-top: 2%;
+    color: black;
+    font: 30px 'Century Gothic';
+    background-color: transparent;
+    border-color: white;
+}
+.pop_up{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: transparent;
+    z-index: 2;
+    display: none;
+}
+.pop_up_container{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0, .8);
+}
+.pop_up_body{
+    margin: auto;
+    width: 500px;
+    background-color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 108px 15px 110px 15px;
+    position: relative;
+}
+.pop_up_body p{
+    font: 20px 'Century Gothic';
+    color: black;
+    margin-bottom: 40px;
+
+}
+.pop_up_body input{
+    display: block;
+    margin: 25px auto 0px auto;
+    width: 338px;
+    padding: 17px 28px;
+    background-color: #EBFFFA;
+    border-radius: 10px;
+    border: none;
+    font: 17px 'Century Gothic';
+    color: black;
+}
+.pop_up_body input:focus{
+    outline: none;
+}
+.pop_up_body button{
+    cursor: pointer;
+    display: block;
+    width: 330px;
+    margin: 60px auto 0px auto;
+    padding: 20px 0px;
+    font: 17px 'Century Gothic';
+    border: none;
+    color: black;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.pop_up_close{
+    position: absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 21px;
+    cursor: pointer;
+
+}
+/*.pop_up.active{*/
+/*    display: block;*/
+/*}*/
+.button a{
+    display: inline !important;
+}
