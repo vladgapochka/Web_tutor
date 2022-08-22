@@ -2,7 +2,7 @@
 $name = $_POST['user_name'];
 $phone = $_POST['user_phone'];
 $mail = $_POST['user_mail'];
-$token = "1940716999:AAEzCyxpESzVlDv69iTtNJOOoZ7DigtVoJg";
+$token = "Токен бота";
 $chat_id = "-631373112";
 $arr = array(
     'Имя пользователя: ' => $name,
